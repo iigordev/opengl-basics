@@ -1,2 +1,2 @@
-# opengl-basics
-a simple 2D OpenGL engine i made while learning C++
+# OpenGL Basics
+`This is just a simple OpenGL engine rendering some text and a triangle in the window!`
